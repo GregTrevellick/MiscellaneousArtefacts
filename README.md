@@ -8,7 +8,7 @@ Never you mind.
  [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
     [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
-[![GitHub actions](https://github.com/GregTrevellick/MiscellaneousArtefacts/workflows/.NET%20Core%20CI/badge.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/actions)
+[![GitHub actions](https://github.com/GregTrevellick/MiscellaneousArtefacts/workflows/.NET%20Core/badge.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/actions)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/pulls)
 [![GitHub followers](https://img.shields.io/github/followers/GregTrevellick.svg)](https://github.com/GregTrevellick?tab=followers)
